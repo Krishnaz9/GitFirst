@@ -1,2 +1,6 @@
 newww
+<<<<<<< HEAD
 modif
+=======
+modified
+>>>>>>> d319587bb7fddcf195f9936de9b9efbf74804494
